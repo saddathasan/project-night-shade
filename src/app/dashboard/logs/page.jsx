@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 function Logs() {
-  return (
-    <div>Logs</div>
-  )
+    return <div>Logs</div>;
 }
 
 export default Logs;
